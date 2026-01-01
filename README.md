@@ -43,13 +43,14 @@ graph TD
     
     subgraph "Local Autonomous Agent"
         API -->|Plan & Execute| Brain[LangGraph Workflow]
-        Brain -->|Inference| LLM[Ollama (Llama 3.2)]
-        Brain -->|Store/Retrieve| Memory[(SQLite + JSON)]
+        Brain -->|Inference| LLM[Ollama Llama 3.2]
+        Brain -->|Store/Retrieve| Memory[SQLite + JSON]
         Brain -->|Execute Tools| MCP[MCP Server]
         
         MCP -->|Manage| Docker[Docker Engine]
         MCP -->|Manage| FS[Filesystem]
     end
+
 ```
 
 ---
