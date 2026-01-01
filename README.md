@@ -19,7 +19,10 @@ It features a modern **Streamlit Dashboard** for monitoring, task submission, an
 - **🛠️ Extensible Tools**: Uses the standard Model Context Protocol (MCP) for tool definitions.
 - **⚡ Fast & Local**: Optimized for local execution with models like `llama3.2` or `phi3`.
 
+
 ---
+
+<img width="1920" height="1080" alt="Screenshot from 2026-01-01 12-36-30" src="https://github.com/user-attachments/assets/f5dd6ae9-511f-4983-befa-f48ee8783694" />
 
 ## ✨ Features
 
