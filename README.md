@@ -61,6 +61,8 @@ graph TD
 ---
 
 ## 🚀 Installation & Running Guide
+<img width="1857" height="547" alt="Screenshot from 2026-01-01 12-39-39" src="https://github.com/user-attachments/assets/d816c819-a560-4f1a-9d1d-6d2e30426d77" />
+<img width="1376" height="957" alt="Screenshot from 2026-01-01 13-36-46" src="https://github.com/user-attachments/assets/8caa51b8-9d9d-4169-8a90-2845b8e56bd2" />
 
 Choose your operating system or preferred method below.
 
@@ -187,6 +189,7 @@ This is the easiest way to ensure all dependencies and services work correctly.
         ```
 
 ---
+<img width="1857" height="547" alt="Screenshot from 2026-01-01 12-39-39" src="https://github.com/user-attachments/assets/b5ed9ee0-9f99-43ff-bdcd-5d88acfc3f19" />
 
 ## 🖥️ Using the Streamlit UI Interface
 
