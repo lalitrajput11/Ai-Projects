@@ -36,6 +36,7 @@ It features a modern **Streamlit Dashboard** for monitoring, task submission, an
 ## 🏗️ Architecture
 
 ```mermaid
+
 graph TD
     User[User / n8n] -->|Trigger| API[FastAPI Agent]
     User -->|Interact| UI[Streamlit Dashboard]
@@ -50,6 +51,7 @@ graph TD
         MCP -->|Manage| Docker[Docker Engine]
         MCP -->|Manage| FS[Filesystem]
     end
+
 
 ```
 
