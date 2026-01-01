@@ -1,0 +1,22 @@
+# OS & system
+.*
+!.gitignore
+
+# Python envs
+venv/
+my-env/
+__pycache__/
+
+# AI tools
+.n8n/
+.ollama/
+.streamlit/
+
+# Secrets
+.env
+.env.*
+
+# Large / junk
+*.deb
+snap/
+telegram/
