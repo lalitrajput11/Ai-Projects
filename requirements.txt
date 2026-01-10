@@ -1,0 +1,29 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+pydantic>=2.7
+pydantic-settings
+
+# LangChain and LangGraph - latest compatible versions
+langgraph
+langchain
+langchain-ollama
+
+# HTTP and async
+httpx
+aiofiles
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Docker SDK
+docker
+
+# Utilities
+python-dotenv
+python-multipart
+
+# UI
+streamlit
+pandas
